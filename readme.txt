@@ -1,0 +1,9 @@
+# tic-tac-toe
+
+Our game, tic tac toe is basically a two player game in which a 3 x 3 grid is used, and on each turn a player has to place their designated mark in the said grid. 
+The game will start by asking the name of the two players, after that the two players will be asked about the marks of their choice. 
+The player who currently has their turn will then be asked the position where they want to put in the mark. 
+The game will continue until any one of the players succeeds in placing three same marks in a row, column or diagonally or the game draws. 
+After the game will finish, a scoreboard will appear, showing the number of matches each player has won. 
+After each match, the players will be asked if they want to play another match or quit the game. 
+We have added the feature that the first turn in each match will be alternate to avoid bias and provide equal oppportunity to both players.
